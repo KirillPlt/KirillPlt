@@ -17,7 +17,7 @@ White-gray-black direction.
   🐸 - **Java**: Basic.  
   🧠 - **C++**: Basic.  
   🗄 - **SQL**: Only **SQLite3**.  
-  🤖 - **Aiogram**: Various bots on polling. From a bot for a biography to a bot-assistant with any capabilities.  
+  🤖 - **Aiogram**: Almost 1 year.  
   
   
 ### 🧑‍💼 Contact Info
