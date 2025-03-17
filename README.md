@@ -1,4 +1,4 @@
  👋 Hi, I’m @KirillPlt
-- 📫 How to reach me @Prwwslll(Telegram).
+- 📫 How to reach me @Code_its_me(Telegram).
 - 😄 Pronouns: KasPer.
-- ⚡ fact: 16 years old. Speak Russia. 
+- ⚡ fact: 17 years old. Speak Russia. 
