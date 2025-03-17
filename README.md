@@ -9,7 +9,7 @@ White-gray-black direction.
 ## 💻 About Me
 👤 - **Username**: Code_its_me.t.me(Telegram)  
 👨‍💻 - **Hobby**: Programming  
-🌐 - **Technologies**: Python, Kotlin and a little C++, Java, Aiogram 3  
+🌐 - **Technologies**: Python, Kotlin,  Aiogram 3 and a little C++, Java.
   
 ---
   ### 📄 Experience
