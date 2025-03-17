@@ -19,6 +19,6 @@ White-gray-black direction.
   🗄 - **SQL**: Only **SQLite3**.  
   🤖 - **Aiogram**: Almost 1 year.  
   
-  
+  ---
 ### 🧑‍💼 Contact Info
 - **Telegram**: [Code_its_me.t.me](https://t.me/code_its_me)
