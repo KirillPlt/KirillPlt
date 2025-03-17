@@ -1,7 +1,9 @@
 # 👋🏻 Hello world!
 Hi, my name is Kasper.   
 I have been programming for over a year.   
-I use Python and other technologies like: Kotlin, C++ White-gray-black direction.
+I use Python and other technologies like: Kotlin, C++.  
+---  
+White-gray-black direction.
 
 
 ## 💻 About Me
