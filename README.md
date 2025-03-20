@@ -5,6 +5,8 @@ I use Python and other technologies like: Kotlin, C++.
 ---  
 White-gray-black direction.
 
+## Abbreviation
+PLT -> Programming Language Toolkit   
 
 ## 💻 About Me
 👤 - **Username**: Code_its_me.t.me(Telegram)  
