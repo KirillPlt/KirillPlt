@@ -17,6 +17,7 @@ PLT -> Programming Language Toolkit
   ### 📄 Experience
   🐍 - **Python**: 1.5 years of experience , bot, a little AI, etc.  
   🐸 - **Java**: Basic.  
+  🐱 - **Kotlin**: Learning | Basic.
   🧠 - **C++**: Basic.  
   🗄 - **SQL**: Only **SQLite3**.  
   🤖 - **Aiogram**: Almost 1 year.  
