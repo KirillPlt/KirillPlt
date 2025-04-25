@@ -3,7 +3,7 @@ Hi, my name is Kasper.
 I have been programming for over a year.   
 I use Python and other technologies like: Kotlin, C++.  
 ---  
-White-gray-black direction.
+Only white direction.
 
 ## Abbreviation
 PLT -> Programming Language Toolkit   
