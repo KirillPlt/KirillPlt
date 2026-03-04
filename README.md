@@ -54,14 +54,6 @@ Backend-разработчик с опытом программирования 
 
 ---
 
-## GitHub-статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirillPlt&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillPlt&layout=compact&theme=default)
-
----
-
 ## Контакты
 
 Telegram: https://t.me/code_its_me
