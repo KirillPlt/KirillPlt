@@ -1,27 +1,67 @@
-# 👋🏻 Hello world!
-Hi, my name is Kasper.   
-I have been programming for over a year.   
-I use Python and other technologies like: Kotlin, C++.  
----  
-Only white direction.
+# Kasper
 
-## Abbreviation
-PLT -> Programming Language Toolkit   
+Backend-разработчик (Python)
 
-## 💻 About Me
-👤 - **Username**: Code_its_me.t.me(Telegram)  
-👨‍💻 - **Hobby**: Programming  
-🌐 - **Technologies**: Python, Kotlin,  Aiogram 3 and a little C++, Java.
-  
 ---
-  ### 📄 Experience
-  🐍 - **Python**: 2 years of experience , bot, a little AI, etc.  
-  🐸 - **Java**: Basic.  
-  🐱 - **Kotlin**: Basic.   
-  🧠 - **C++**: Basic.  
-  🗄 - **SQL**: Only **SQLite3**.  
-  🤖 - **Aiogram**: Almost 1.5 year.  
-  
-  ---
-### 🧑‍💼 Contact Info
-- **Telegram**: [Code_its_me.t.me](https://t.me/code_its_me)
+
+## О себе
+
+Backend-разработчик с опытом программирования более 2 лет.  
+Основной стек — Python и разработка серверной логики, Telegram-ботов и автоматизации.
+
+Интересуюсь архитектурой приложений, чистым кодом и практиками построения поддерживаемых backend-систем.
+
+---
+
+## Технические навыки
+
+### Язык программирования
+- Python (основной)
+
+### Backend и библиотеки
+- Aiogram 3 (разработка Telegram-ботов)
+- Работа с REST API
+- Асинхронное программирование (asyncio)
+
+### Базы данных
+- SQLite3
+- Проектирование простой структуры БД
+- Работа с SQL-запросами
+- ORM
+- SQLalchemy
+- PostgreSQL
+
+### Инструменты
+- Git
+- Linux (базовый уровень)
+- Работа с CLI
+
+---
+
+## Опыт
+
+### Python — 3 года
+- Разработка backend-логики
+- Создание Telegram-ботов
+- Автоматизация задач
+- Небольшие AI-проекты
+
+### Aiogram — 2.5 года
+- Проектирование архитектуры ботов
+- Реализация FSM
+- Интеграция с базами данных
+- Обработка внешних API
+
+---
+
+## GitHub-статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirillPlt&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillPlt&layout=compact&theme=default)
+
+---
+
+## Контакты
+
+Telegram: https://t.me/code_its_me
