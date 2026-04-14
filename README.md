@@ -1,6 +1,6 @@
 # Kasper
 
-Middle Backend-разработчик (Python)
+Backend-разработчик (Python)
 
 ---
 
